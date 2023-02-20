@@ -34,5 +34,6 @@ public class Calculadora {
     public int div(int a, int b){
         return divHelper.execute(a,b);
     }
+// modulo protegido
 
 }
