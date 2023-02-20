@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dio.core/dio.core.iml" filepath="$PROJECT_DIR$/dio.core/dio.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio.teste/dio.teste.iml" filepath="$PROJECT_DIR$/dio.teste/dio.teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio.utils/dio.utils.iml" filepath="$PROJECT_DIR$/dio.utils/dio.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_modular.iml" filepath="$PROJECT_DIR$/java_modular.iml" />
+    </modules>
+  </component>
+</project>
